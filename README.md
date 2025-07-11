@@ -13,7 +13,3 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/morettt/count.svg)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
